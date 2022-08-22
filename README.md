@@ -7,11 +7,11 @@ The goal of this course is to examine natural language processing tools and tech
 |---------------|-----------------------------------------------|----------------------|--------------------------------|
 | Notebook 0     | Introduction to Anaconda and Jupyter Notebooks    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
 | Notebook 1    | Introduction to Pandas, Data Visualizations, and NLP Tasks                 | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
-| Notebook 2     | NLP With N-Grams and Tokenization                     | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
-| Notebook 3     | NLP Text Classification                    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
-| Notebook 4     | Topic Title TBA                    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
-| Notebook 5     | Topic Title TBA                     | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
-| Notebook 6     | NLP and Pytorch + Transformers                    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
+| Notebook 2     | N-Grams and Tokenization                     | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
+| Notebook 3     | Text Classification                    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
+| Notebook 4     | Topic Modeling and Clustering                    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
+| Notebook 5     | Word2Vec and Doc2Vec                     | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
+| Notebook 6     | NLP with Transformers                    | [![Binder](https://mybinder.org/badge.svg)]() | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)]() |
 
 #### Instructor: Ilya Akdemir
 #### Developer Team Lead: Arushi Sharma
