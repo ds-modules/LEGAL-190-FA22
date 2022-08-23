@@ -21,4 +21,4 @@ The goal of this course is to examine natural language processing tools and tech
 1) Spring 2022 ETH Course, "Natural Language Processing for Law and Social Science", instructed by Elliott Ash - https://github.com/elliottash/nlp_lss_2022
 2) Spring 2022 UC Berkeley, Legal Studies 123 "Law, Data and Prediction", instructed by Jonathan Marshall - https://github.com/ds-modules/Legalst-123
 3) case.law API example notebooks - https://github.com/harvard-lil/cap-examples
-4) Jupyter notebooks for the "Natural Language Processing with Transformers"book (2022) - https://github.com/nlp-with-transformers/notebooks
+4) Jupyter notebooks for the "Natural Language Processing with Transformers" book (2022) - https://github.com/nlp-with-transformers/notebooks
