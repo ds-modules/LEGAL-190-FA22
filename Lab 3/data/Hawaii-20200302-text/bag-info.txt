@@ -1,0 +1,6 @@
+Source-Organization: Harvard Law School Library Innovation Lab
+Organization-Address: 1545 Massachusetts Avenue, Cambridge, MA 02138
+Contact-Name: Library Innovation Lab
+Contact-Email: info@case.law
+External-Description: Cases for Hawaii
+Bagging-Date: 2020-03-02
