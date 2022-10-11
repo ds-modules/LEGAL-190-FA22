@@ -1,6 +1,6 @@
 # LEGAL STUDIES 190, FALL 2022
 ## Natural Language Processing & Law
-### Instructor: Ilya Akdemir
+#### Instructor: Ilya Akdemir
 
 The goal of this course is to examine natural language processing tools and techniques and how they can be used with legal text data. 
 
