@@ -1,5 +1,6 @@
 # LEGAL STUDIES 190, FALL 2022
 ## Natural Language Processing & Law
+### Instructor: Ilya Akdemir
 
 The goal of this course is to examine natural language processing tools and techniques and how they can be used with legal text data. 
 
@@ -14,7 +15,7 @@ The goal of this course is to examine natural language processing tools and tech
 | Notebook 7     | Word Embeddings - Word2Vec and Doc2Vec                         | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FLEGAL-190-FA22&branch=main&urlpath=tree%2FLEGAL-190-FA22%2FLab+7%2FLab_7.ipynb) |
 | Notebook 8     | Contextualized Word Embeddings - NLP with Transformers                        | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FLEGAL-190-FA22&branch=main&urlpath=tree%2FLEGAL-190-FA22%2FLab+8%2FLab_8_Final.ipynb) |
 
-### Instructor: Ilya Akdemir
+
 #### Developer Team Lead: Arushi Sharma
 #### Developer Team: Eddie Guo, Ukiah Heasley, Charlie Cheng-Jie Ji, Parth Shisode
 #### These notebooks borrow code from multiple sources:
