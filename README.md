@@ -5,7 +5,7 @@
 The goal of this course is to examine natural language processing tools and techniques and how they can be used with legal text data. 
 
 | Module         | Summary                                      |Berkeley Datahub Link           |
-|-----------------|----------------------------------------------|--------------------------------|
+|------------------|----------------------------------------------|--------------------------------|
 | Notebook 1     | Introduction to Anaconda                     | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FLEGAL-190-FA22&branch=main&urlpath=tree%2FLEGAL-190-FA22%2FLab+1%2FLab_1.ipynb) |
 | Notebook 2     | Introduction to Python, Jupyter Notebooks, Pandas and Visualizations   | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FLEGAL-190-FA22&branch=main&urlpath=tree%2FLEGAL-190-FA22%2FLab+2%2FLab_2.ipynb) |
 | Notebook 3     | Introduction to case.law API                        | [![Binder](https://img.shields.io/badge/Launch-UCB%20Datahub-blue.svg)](https://datahub.berkeley.edu/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fds-modules%2FLEGAL-190-FA22&branch=main&urlpath=tree%2FLEGAL-190-FA22%2FLab+3%2FLab_3.ipynb) |
